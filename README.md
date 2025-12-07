@@ -9,8 +9,8 @@ The **Ultrasonic Distance Indicator with Buzzer** is an IoT-based embedded syste
 ---
 
 ## 👩‍🎓 Prepared By  
-- **IT003 – Astha Ankola**
-- **IT022 – Ami Desai**
+- **Astha Ankola**
+- **Ami Desai**
 
 ---
 
